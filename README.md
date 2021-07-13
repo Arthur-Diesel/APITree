@@ -2,7 +2,7 @@
 <p align="center"> API Rest utilizando Express.js c/ dados armazenados em um arquivo Json </p>
 
 ### ✅ Rotas:
-- [x] <b>/id/0 ~ 200</b> ~ <small> Acesso de informação através das IDs das árvores. </small>
+- [x] <b>/id/0 ~ 200</b> ~ <small> Acesso de informação através dos IDs das árvores. </small>
 - [x] <b>/nome/handroanthusarianeae</b> ~ <i>Handroanthus arianeae</i>
 - [x] <b>/nome/abrico-da-praia</b> ~ <i>Abricó-da-praia</i>
 - [x] <b>/nome/abrico-de-macaco</b> ~ <i>Abricó-de-macaco</i>
