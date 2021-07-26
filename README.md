@@ -202,64 +202,64 @@
 - [x] <b>/nome/pequia-marfim</b> ~ <i>Pequiá-marfim</i>
 - [x] <b>/nome/pereiro</b> ~ <i>Pereiro</i>
 - [x] <b>/nome/peroba-comum</b> ~ <i>Peroba-comum</i>
-- [z] <b>/nome/perseapyrifolia</b> ~ <i>Persea pyrifolia</i>
-- [z] <b>/nome/peschieralaeta</b> ~ <i>Peschiera laeta</i>
-- [z] <b>/nome/picramniaparvifolia</b> ~ <i>Picramnia parvifolia</i>
-- [z] <b>/nome/pindaiba-preta</b> ~ <i>Pindaíba-preta</i>
-- [z] <b>/nome/pinuselliottii</b> ~ <i>Pinus elliottii</i>
-- [z] <b>/nome/pau-jacare</b> ~ <i>Pau-jacaré</i>
-- [z] <b>/nome/pitanga</b> ~ <i>Pitanga</i>
-- [z] <b>/nome/pitomba-da-bahia</b> ~ <i>Pitomba-da-bahia</i>
-- [z] <b>/nome/pitombeira</b> ~ <i>Pitombeira</i>
-- [z] <b>/nome/pliniaedulis</b> ~ <i>Plinia edulis</i>
-- [z] <b>/nome/podocarpussellowii</b> ~ <i>Podocarpus sellowii</i>
-- [z] <b>/nome/prosopisaffinis</b> ~ <i>Prosopis affinis</i>
-- [z] <b>/nome/handroanthusriodocensis</b> ~ <i>Handroanthus riodocensis</i>
-- [z] <b>/nome/rolliniaamazonica</b> ~ <i>Rollinia amazonica</i>
-- [z] <b>/nome/rolliniabahiensis</b> ~ <i>Rollinia bahiensis</i>
-- [z] <b>/nome/rolliniacalcarata</b> ~ <i>Rollinia calcarata</i>
-- [z] <b>/nome/rolliniaemarginata</b> ~ <i>Rollinia emarginata</i>
-- [z] <b>/nome/rolliniaferruginea</b> ~ <i>Rollinia ferruginea</i>
-- [z] <b>/nome/rolliniahelosioides</b> ~ <i>Rollinia helosioides</i>
-- [z] <b>/nome/rolliniapickelii</b> ~ <i>Rollinia pickelii</i>
-- [z] <b>/nome/rolliniasalicifolia</b> ~ <i>Rollinia salicifolia</i>
-- [z] <b>/nome/rolliniasericea</b> ~ <i>Rollinia sericea</i>
-- [z] <b>/nome/rolliniasylvatica</b> ~ <i>Rollinia sylvatica</i>
-- [z] <b>/nome/rolliniaubatubensis</b> ~ <i>Rollinia ubatubensis</i>
-- [z] <b>/nome/handroanthusselachidentatus</b> ~ <i>Handroanthus selachidentatus</i>
-- [z] <b>/nome/schinopsisbrasiliensis</b> ~ <i>Schinopsis brasiliensis</i>
-- [z] <b>/nome/sclerolobiumpaniculatum</b> ~ <i>Sclerolobium paniculatum</i>
-- [z] <b>/nome/ciriguela</b> ~ <i>Ciriguela</i>
-- [z] <b>/nome/seringueira</b> ~ <i>Seringueira</i>
-- [z] <b>/nome/seru</b> ~ <i>Seru</i>
-- [z] <b>/nome/paineira-amarela</b> ~ <i>Paineira-amarela</i>
-- [z] <b>/nome/sucupira-preto</b> ~ <i>Sucupira-preto</i>
-- [z] <b>/nome/syagrusschizophylla</b> ~ <i>Syagrus schizophylla</i>
-- [z] <b>/nome/tabebuiaaurea</b> ~ <i>Tabebuia aurea</i>
-- [z] <b>/nome/tamanqueiro</b> ~ <i>Tamanqueiro</i>
-- [z] <b>/nome/taniboca</b> ~ <i>Taniboca</i>
-- [z] <b>/nome/tanibuca</b> ~ <i>Tanibuca</i>
-- [z] <b>/nome/tanimbuca</b> ~ <i>Tanimbuca</i>
-- [z] <b>/nome/tarumarana</b> ~ <i>Tarumarana</i>
-- [z] <b>/nome/terminaliaacuminata</b> ~ <i>Terminalia acuminata</i>
-- [z] <b>/nome/terminaliahoehneana</b> ~ <i>Terminalia hoehneana</i>
-- [z] <b>/nome/terminaliajanuariensis</b> ~ <i>Terminalia januariensis</i>
-- [z] <b>/nome/terminaliakleinii</b> ~ <i>Terminalia kleinii</i>
-- [z] <b>/nome/terminaliaparvifolia</b> ~ <i>Terminalia parvifolia</i>
-- [z] <b>/nome/terminaliareitzii</b> ~ <i>Terminalia reitzii</i>
-- [z] <b>/nome/tibouchinaaegopogon</b> ~ <i>Tibouchina aegopogon</i>
-- [z] <b>/nome/tibouchinacandolleana</b> ~ <i>Tibouchina candolleana</i>
-- [z] <b>/nome/tibouchinagranulosa</b> ~ <i>Tibouchina granulosa</i>
-- [z] <b>/nome/tibouchinamutabilis</b> ~ <i>Tibouchina mutabilis</i>
-- [z] <b>/nome/tibouchinapapyrus</b> ~ <i>Tibouchina papyrus</i>
-- [z] <b>/nome/tibouchinasellowiana</b> ~ <i>Tibouchina sellowiana</i>
-- [z] <b>/nome/tibouchinastenocarpa</b> ~ <i>Tibouchina stenocarpa</i>
-- [z] <b>/nome/amendoim-acacia</b> ~ <i>Amendoim-acácia</i>
-- [z] <b>/nome/trithrinaxschizophylla</b> ~ <i>Trithrinax schizophylla</i>
-- [z] <b>/nome/handroanthusumbellatus</b> ~ <i>Handroanthus umbellatus</i>
-- [z] <b>/nome/ubucu</b> ~ <i>Ubuçu</i>
-- [z] <b>/nome/umbuzeiro</b> ~ <i>Umbuzeiro</i>
-- [z] <b>/nome/uvaia</b> ~ <i>Uvaia</i>
-- [z] <b>/nome/handroanthusvellosoi</b> ~ <i>Handroanthus vellosoi</i>
-- [z] <b>/nome/pimenta-de-macaco</b> ~ <i>Pimenta-de-macaco</i>
-- [z] <b>/nome/xylopiabrasiliensis</b> ~ <i>Xylopia brasiliensis</i>
+- [x] <b>/nome/perseapyrifolia</b> ~ <i>Persea pyrifolia</i>
+- [x] <b>/nome/peschieralaeta</b> ~ <i>Peschiera laeta</i>
+- [x] <b>/nome/picramniaparvifolia</b> ~ <i>Picramnia parvifolia</i>
+- [x] <b>/nome/pindaiba-preta</b> ~ <i>Pindaíba-preta</i>
+- [x] <b>/nome/pinuselliottii</b> ~ <i>Pinus elliottii</i>
+- [x] <b>/nome/pau-jacare</b> ~ <i>Pau-jacaré</i>
+- [x] <b>/nome/pitanga</b> ~ <i>Pitanga</i>
+- [x] <b>/nome/pitomba-da-bahia</b> ~ <i>Pitomba-da-bahia</i>
+- [x] <b>/nome/pitombeira</b> ~ <i>Pitombeira</i>
+- [x] <b>/nome/pliniaedulis</b> ~ <i>Plinia edulis</i>
+- [x] <b>/nome/podocarpussellowii</b> ~ <i>Podocarpus sellowii</i>
+- [x] <b>/nome/prosopisaffinis</b> ~ <i>Prosopis affinis</i>
+- [x] <b>/nome/handroanthusriodocensis</b> ~ <i>Handroanthus riodocensis</i>
+- [x] <b>/nome/rolliniaamazonica</b> ~ <i>Rollinia amazonica</i>
+- [x] <b>/nome/rolliniabahiensis</b> ~ <i>Rollinia bahiensis</i>
+- [x] <b>/nome/rolliniacalcarata</b> ~ <i>Rollinia calcarata</i>
+- [x] <b>/nome/rolliniaemarginata</b> ~ <i>Rollinia emarginata</i>
+- [x] <b>/nome/rolliniaferruginea</b> ~ <i>Rollinia ferruginea</i>
+- [x] <b>/nome/rolliniahelosioides</b> ~ <i>Rollinia helosioides</i>
+- [x] <b>/nome/rolliniapickelii</b> ~ <i>Rollinia pickelii</i>
+- [x] <b>/nome/rolliniasalicifolia</b> ~ <i>Rollinia salicifolia</i>
+- [x] <b>/nome/rolliniasericea</b> ~ <i>Rollinia sericea</i>
+- [x] <b>/nome/rolliniasylvatica</b> ~ <i>Rollinia sylvatica</i>
+- [x] <b>/nome/rolliniaubatubensis</b> ~ <i>Rollinia ubatubensis</i>
+- [x] <b>/nome/handroanthusselachidentatus</b> ~ <i>Handroanthus selachidentatus</i>
+- [x] <b>/nome/schinopsisbrasiliensis</b> ~ <i>Schinopsis brasiliensis</i>
+- [x] <b>/nome/sclerolobiumpaniculatum</b> ~ <i>Sclerolobium paniculatum</i>
+- [x] <b>/nome/ciriguela</b> ~ <i>Ciriguela</i>
+- [x] <b>/nome/seringueira</b> ~ <i>Seringueira</i>
+- [x] <b>/nome/seru</b> ~ <i>Seru</i>
+- [x] <b>/nome/paineira-amarela</b> ~ <i>Paineira-amarela</i>
+- [x] <b>/nome/sucupira-preto</b> ~ <i>Sucupira-preto</i>
+- [x] <b>/nome/syagrusschizophylla</b> ~ <i>Syagrus schizophylla</i>
+- [x] <b>/nome/tabebuiaaurea</b> ~ <i>Tabebuia aurea</i>
+- [x] <b>/nome/tamanqueiro</b> ~ <i>Tamanqueiro</i>
+- [x] <b>/nome/taniboca</b> ~ <i>Taniboca</i>
+- [x] <b>/nome/tanibuca</b> ~ <i>Tanibuca</i>
+- [x] <b>/nome/tanimbuca</b> ~ <i>Tanimbuca</i>
+- [x] <b>/nome/tarumarana</b> ~ <i>Tarumarana</i>
+- [x] <b>/nome/terminaliaacuminata</b> ~ <i>Terminalia acuminata</i>
+- [x] <b>/nome/terminaliahoehneana</b> ~ <i>Terminalia hoehneana</i>
+- [x] <b>/nome/terminaliajanuariensis</b> ~ <i>Terminalia januariensis</i>
+- [x] <b>/nome/terminaliakleinii</b> ~ <i>Terminalia kleinii</i>
+- [x] <b>/nome/terminaliaparvifolia</b> ~ <i>Terminalia parvifolia</i>
+- [x] <b>/nome/terminaliareitzii</b> ~ <i>Terminalia reitzii</i>
+- [x] <b>/nome/tibouchinaaegopogon</b> ~ <i>Tibouchina aegopogon</i>
+- [x] <b>/nome/tibouchinacandolleana</b> ~ <i>Tibouchina candolleana</i>
+- [x] <b>/nome/tibouchinagranulosa</b> ~ <i>Tibouchina granulosa</i>
+- [x] <b>/nome/tibouchinamutabilis</b> ~ <i>Tibouchina mutabilis</i>
+- [x] <b>/nome/tibouchinapapyrus</b> ~ <i>Tibouchina papyrus</i>
+- [x] <b>/nome/tibouchinasellowiana</b> ~ <i>Tibouchina sellowiana</i>
+- [x] <b>/nome/tibouchinastenocarpa</b> ~ <i>Tibouchina stenocarpa</i>
+- [x] <b>/nome/amendoim-acacia</b> ~ <i>Amendoim-acácia</i>
+- [x] <b>/nome/trithrinaxschizophylla</b> ~ <i>Trithrinax schizophylla</i>
+- [x] <b>/nome/handroanthusumbellatus</b> ~ <i>Handroanthus umbellatus</i>
+- [x] <b>/nome/ubucu</b> ~ <i>Ubuçu</i>
+- [x] <b>/nome/umbuzeiro</b> ~ <i>Umbuzeiro</i>
+- [x] <b>/nome/uvaia</b> ~ <i>Uvaia</i>
+- [x] <b>/nome/handroanthusvellosoi</b> ~ <i>Handroanthus vellosoi</i>
+- [x] <b>/nome/pimenta-de-macaco</b> ~ <i>Pimenta-de-macaco</i>
+- [x] <b>/nome/xylopiabrasiliensis</b> ~ <i>Xylopia brasiliensis</i>
