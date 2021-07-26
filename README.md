@@ -1,8 +1,10 @@
 <h1 align="center"> :deciduous_tree: APITree </h1>
 <p align="center"> API Rest utilizando Express.js c/ dados armazenados em um arquivo Json </p>
 
-### ✅ Rotas:
+<h3 align="left">✅ Rota (id) :</h3>
 - [x] <b>/id/0 ~ 262</b> ~ <small> Acesso de informação através dos IDs das árvores. </small>
+
+<h3 align="left">✅ Rotas (nomes) :</h3>
 - [x] <b>/nome/handroanthusarianeae</b> ~ <i>Handroanthus arianeae</i>
 - [x] <b>/nome/abrico-da-praia</b> ~ <i>Abricó-da-praia</i>
 - [x] <b>/nome/abrico-de-macaco</b> ~ <i>Abricó-de-macaco</i>
