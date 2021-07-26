@@ -290,4 +290,4 @@ app.get('/nome/handroanthusvellosoi', (req,res) => res.status(200).send(data[259
 app.get('/nome/pimenta-de-macaco', (req,res) => res.status(200).send(data[260]))
 app.get('/nome/xylopiabrasiliensis', (req,res) => res.status(200).send(data[261]))
 
-app.listen(port, '192.168.100.44', () => {console.log(`${port}`)})
+app.listen(port, () => {console.log(`${port}`)})
